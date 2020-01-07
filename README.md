@@ -25,7 +25,6 @@
 
 ## 数据可视化工具
 - pyecharts
-- plotly
 ## 页面美化工具
 - html
 - css
